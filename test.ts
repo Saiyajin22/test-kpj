@@ -3,5 +3,5 @@ function f1() {
 }
 
 function f2() {
-    console.log("f2");
+    console.log("kurva");
 }
